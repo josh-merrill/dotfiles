@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = joshmmerrill@outlook.com
+	name = Josh Merrill
